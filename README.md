@@ -1,10 +1,11 @@
-## Media Monk - https://mmsitedev.netlify.app/
+## Media Monks - https://mmsitedev.netlify.app/
 
 For this assignment i have used 
 - Parcel : for bundling
 - sass : for styling
 - typescript : for type checking
 - netlify : to host the webpage
+- support for mobile view
 
 How to run this project locally 
 ```
